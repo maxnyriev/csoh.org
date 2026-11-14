@@ -33,7 +33,7 @@
 
   <url>
     <loc>https://csoh.org/resources-labs-training.html</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -757,7 +757,7 @@
   <!-- Cloud Pentesting & Red Teaming - reference page -->
   <url>
     <loc>https://csoh.org/cloud-pentesting.html</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -861,7 +861,7 @@
   <!-- News - Updates very frequently -->
   <url>
     <loc>https://csoh.org/news.html</loc>
-    <lastmod>2026-11-12</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
